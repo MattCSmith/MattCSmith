@@ -26,5 +26,5 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 ---
 
 <p align='center'>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mattcsmith.github-readme1" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mattcsmith.github-readme0123" />
 </p>
