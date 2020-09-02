@@ -42,6 +42,10 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 [![Github ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 <p align='center'>
     <img src="https://visitor-badge.glitch.me/badge?page_id=mattcsmith.github-readme0123" />
 </p>
