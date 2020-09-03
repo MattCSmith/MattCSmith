@@ -31,12 +31,10 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 
 ## Public Projects I Have Worked On
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattcsmith&repo=full-stack-trends)](https://www.fullstacktrends.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=coding_challenge-13)](https://www.fullstacktrends.com/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattcsmith&repo=zeroBot-legacy)](https://github.com/MattCSmith/zeroBot-Legacy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattcsmith&repo=dev-resources-frontend)](https://github.com/MattCSmith/dev-resources-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=dev-resources-frontend)](https://github.com/zerodevs/dev-resources-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=advent-website)](aoc.zerotomastery.io)
-
-
 
 ## Projects I Think Are Worth Checking Out!
 [![Github ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
