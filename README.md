@@ -24,9 +24,15 @@ With a focus on JavaScript, Node and React, I build, deploy and maintain Fullsta
 Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-smith/) or [Twitter](https://twitter/MattCSmith_)
 
 ---
-
+## Coding & Opensource Statistics
 ![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=mattcsmith&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsmith)](https://github.com/mattcsmith)
+
+<details>
+  <summary>Click to view more stats!</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
 ---
 
 ## Public Projects I Have Worked On
@@ -38,14 +44,6 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 
 ## Projects I Think Are Worth Checking Out!
 [![Github ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<details>
-  <summary>Click to view more stats!</summary>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-</details>
-
 
 ---
 <p align='center'>
