@@ -26,7 +26,6 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 ---
 ## Coding & Opensource Statistics
 ![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=mattcsmith&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsmith)](https://github.com/mattcsmith)
 
 <details>
