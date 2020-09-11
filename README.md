@@ -31,13 +31,13 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 <details>
   <summary>Click to view more stats!</summary>
     <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,833 Contributions in the Year 2020
+> 🏆 1,836 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -61,8 +61,8 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 ```text
 Monday       283 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
 Tuesday      270 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
-Wednesday    170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
-Thursday     264 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Wednesday    168 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Thursday     266 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
 Friday       181 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
 Saturday     219 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
 Sunday       174 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
@@ -76,14 +76,14 @@ Sunday       174 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               31 mins             ████████████████████░░░░░   81.01% 
-JSX                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.99%
+JavaScript               32 mins             ████████████████████░░░░░   81.17% 
+JSX                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.83%
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.0%
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
