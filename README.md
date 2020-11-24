@@ -31,13 +31,13 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 <details>
   <summary>Click to view more stats!</summary>
     <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,718 Contributions in the Year 2020
+> 🏆 2,720 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -59,10 +59,10 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Monday       139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
 Tuesday      195 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
 Wednesday    384 commits    █████░░░░░░░░░░░░░░░░░░░░   20.87% 
-Thursday     393 commits    █████░░░░░░░░░░░░░░░░░░░░   21.36% 
+Thursday     392 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3% 
 Friday       335 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
 Saturday     199 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
 Sunday       196 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.65%
