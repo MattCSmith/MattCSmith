@@ -33,7 +33,7 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
     <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -76,15 +76,15 @@ Sunday       189 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSX                      8 hrs 27 mins       ████████████████████░░░░░   83.22% 
-JavaScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+JSX                      9 hrs 1 min         ████████████████████░░░░░   82.71% 
+JavaScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  10 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 55 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 10 mins      █████████████████████████   100.0%
+Windows                  10 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
