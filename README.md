@@ -33,11 +33,11 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
     <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,880 Contributions in the Year 2020
+> 🏆 2,881 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -59,8 +59,8 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-Tuesday      210 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
+Monday       158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Tuesday      211 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
 Wednesday    388 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1% 
 Thursday     379 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61% 
 Friday       330 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
@@ -76,14 +76,14 @@ Sunday       189 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSX                      3 hrs 58 mins       ███████████████████░░░░░░   77.74% 
-JavaScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   22.26%
+JSX                      2 hrs 31 mins       ████████████████████░░░░░   82.37% 
+JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63%
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 4 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.0%
+Windows                  3 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
