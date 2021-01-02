@@ -109,8 +109,8 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=FullstackTrends_Challenge-13)](https://www.fullstacktrends.com/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattcsmith&repo=zeroBot-legacy)](https://github.com/MattCSmith/zeroBot-Legacy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=dev-resources-frontend)](https://github.com/zerodevs/dev-resources-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=advent-website)](aoc.zerotomastery.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=resource-hub-frontend)](https://github.com/zeroDevs/resource-hub-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zerodevs&repo=advent-website)](https://aoc.zerotomastery.io)
 
 ## Projects I Think Are Worth Checking Out!
 [![Github ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
