@@ -31,13 +31,13 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 <details>
   <summary>Click to view more stats!</summary>
     <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 349 Contributions in the Year 2021
+> 🏆 351 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -76,17 +76,17 @@ Sunday       72 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               7 hrs 17 mins       ███████████████████░░░░░░   75.65% 
-JSX                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+JavaScript               7 hrs 41 mins       ███████████████████░░░░░░   76.61% 
+JSX                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  9 hrs 38 mins       █████████████████████████   100.0%
+VS Code                  10 hrs 2 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 38 mins       █████████████████████████   100.0%
+Windows                  10 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
