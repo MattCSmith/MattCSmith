@@ -31,13 +31,13 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 <details>
   <summary>Click to view more stats!</summary>
     <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 410 Contributions in the Year 2021
+> 🏆 413 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -93,11 +93,11 @@ Windows                  13 hrs 57 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               42 repos            ███████████████████░░░░░░   76.36% 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+JavaScript               43 repos            ███████████████████░░░░░░   76.79% 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 ```
 
