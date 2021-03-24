@@ -37,7 +37,7 @@ Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-s
 
 **🐱 My Github Data** 
 
-> 🏆 415 Contributions in the Year 2021
+> 🏆 418 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
