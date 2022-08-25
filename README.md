@@ -1,27 +1,31 @@
 <div align="center">
     <div>
-        <img src="https://github.com/MattCSmith/MattCSmith/raw/master/assets/githubImage.png" alt="Profile header" width="70%" />
-        <a href="https://api.daily.dev/get?r=MattCSmith"><img src="https://github.com/mattcsmith/mattcsmith/blob/master/devcard.svg" width="25%" align="right"/></a>
+        <img src="https://github.com/MattCSmith/MattCSmith/raw/master/assets/githubImage.png" alt="Profile header"
+            width="70%" />
+
         <div>
-        <a href="https://www.linkedin.com/in/matt-c-smith/">
-            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-        </a>&nbsp;&nbsp;
-        <!-- <a href="https://dev.to/mattcsmith">
+            <a href="https://www.linkedin.com/in/matt-c-smith/">
+                <img
+                    src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+            </a>&nbsp;&nbsp;
+            <!-- <a href="https://dev.to/mattcsmith">
             <img src="https://img.shields.io/badge/dev.to-follow-%230A0A0A.svg?&style=for-the-badge&logo=dev.to" />
         </a>&nbsp;&nbsp; -->
-        <a href="https://twitter/MattCSmith_">
-            <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/channel/UCQnCh_U9PeXh_7FaxUB7Lsg">
-            <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
-        </a>
+            <a href="https://twitter/MattCSmith_">
+                <img
+                    src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
+            </a>&nbsp;&nbsp;
+            <a href="https://www.youtube.com/channel/UCQnCh_U9PeXh_7FaxUB7Lsg">
+                <img
+                    src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
+            </a>
+        </div>
     </div>
-    </div>
-    
-    
-   
+
+
+
 </div>
-<br/><br/>
+<br /><br />
 
 
 
