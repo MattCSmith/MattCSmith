@@ -11,7 +11,7 @@
         <a href="https://twitter/MattCSmith_">
             <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
         </a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/channel/UCQnCh_U9PeXh_7FaxUB7Lsg">
+        <a href="https://www.youtube.com/channel/UC_WTeHQ0Gp62tSVPaeCff-w">
             <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
         </a>
     </div>
