@@ -44,6 +44,9 @@ Have an interesting project? I'm always open to new projects and experiences, so
 
 ---
 <br />
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+<br />
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/?username=mattcsmith&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
