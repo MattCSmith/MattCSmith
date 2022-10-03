@@ -31,6 +31,14 @@ Have an interesting project? I'm always open to new projects and experiences, so
 - [Twitter](https://twitter/MattCSmith_)
 - [Linkedin](https://www.linkedin.com/in/matt-c-smith/)
 
+<br />
+
+### RECENT YOUTUBE VIDEOS
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Why You Should Participate in #hacktoberfest !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+You+Should+Participate+in+%23hacktoberfest+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why You Should Participate in #hacktoberfest !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
+<!-- END YOUTUBE-CARDS -->
+
 
 <br />
 
@@ -45,14 +53,7 @@ Have an interesting project? I'm always open to new projects and experiences, so
 ---
 <br />
 
-### RECENT YOUTUBE VIDEOS
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Why You Should Participate in #hacktoberfest !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+You+Should+Participate+in+%23hacktoberfest+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why You Should Participate in #hacktoberfest !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
-<!-- END YOUTUBE-CARDS -->
-
-
-<br />
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/?username=mattcsmith&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
