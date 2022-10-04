@@ -36,7 +36,7 @@ Have an interesting project? I'm always open to new projects and experiences, so
 ### RECENT YOUTUBE VIDEOS
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Why You Should Participate in #hacktoberfest !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+You+Should+Participate+in+%23hacktoberfest+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why You Should Participate in #hacktoberfest !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
+[![Why You Should Participate in #hacktoberfest !](https://ytcards.vercel.app/?id=jZXV8XBqZHA&title=Why+You+Should+Participate+in+%23hacktoberfest+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why You Should Participate in #hacktoberfest !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
 <!-- END YOUTUBE-CARDS -->
 
 
