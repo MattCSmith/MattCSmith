@@ -36,6 +36,7 @@ Have an interesting project? I'm always open to new projects and experiences, so
 ### RECENT YOUTUBE VIDEOS
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![HacktoberFest 2022: Complete Step by Step Guide](https://ytcards.demolab.com/?id=OqweFF7GLlk&title=HacktoberFest+2022%3A+Complete+Step+by+Step+Guide&timestamp=1665006045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HacktoberFest 2022: Complete Step by Step Guide")](https://www.youtube.com/watch?v=OqweFF7GLlk)
 [![Hacktoberfest Projects You Can Contribute To](https://ytcards.demolab.com/?id=tGTHtvBeSVA&title=Hacktoberfest+Projects+You+Can+Contribute+To&timestamp=1664926934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Hacktoberfest Projects You Can Contribute To")](https://www.youtube.com/watch?v=tGTHtvBeSVA)
 [![Why Participate in #hacktoberfest 2022 !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+Participate+in+%23hacktoberfest+2022+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why Participate in #hacktoberfest 2022 !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
 <!-- END YOUTUBE-CARDS -->
