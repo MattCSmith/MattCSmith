@@ -37,7 +37,7 @@ Have an interesting project? I'm always open to new projects and experiences, so
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Hacktoberfest Projects You Can Contribute To](https://ytcards.demolab.com/?id=tGTHtvBeSVA&title=Hacktoberfest+Projects+You+Can+Contribute+To&timestamp=1664926934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Hacktoberfest Projects You Can Contribute To")](https://www.youtube.com/watch?v=tGTHtvBeSVA)
-[![Why You Should Participate in #hacktoberfest !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+You+Should+Participate+in+%23hacktoberfest+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why You Should Participate in #hacktoberfest !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
+[![Why Participate in #hacktoberfest 2022 !](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Why+Participate+in+%23hacktoberfest+2022+%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why Participate in #hacktoberfest 2022 !")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
 <!-- END YOUTUBE-CARDS -->
 
 
