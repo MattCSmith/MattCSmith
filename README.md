@@ -33,11 +33,14 @@ Have an interesting project? I'm always open to new projects and experiences, so
 
 <br />
 
+### 📌 FEATURED YOUTUBE VIDEOS
+[![Watch the video](https://user-images.githubusercontent.com/6190356/195378195-0b22597c-5f81-42f3-bac1-ad199099c8ce.png)](http://links.constcoding.dev/yt-ghf-1)
+
+
 ### RECENT YOUTUBE VIDEOS
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![4 Ideal Hacktoberfest Projects to Help You Get Started](https://ytcards.demolab.com/?id=U3WLV7FZ85M&title=4+Ideal+Hacktoberfest+Projects+to+Help+You+Get+Started&timestamp=1665250440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "4 Ideal Hacktoberfest Projects to Help You Get Started")](https://www.youtube.com/watch?v=U3WLV7FZ85M)
-[![HacktoberFest 2022: Complete Step by Step Guide | #hacktoberfest2022](https://ytcards.demolab.com/?id=OqweFF7GLlk&title=HacktoberFest+2022%3A+Complete+Step+by+Step+Guide+%7C+%23hacktoberfest2022&timestamp=1665006045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HacktoberFest 2022: Complete Step by Step Guide | #hacktoberfest2022")](https://www.youtube.com/watch?v=OqweFF7GLlk)
 [![Projects You Can Contribute To #hacktoberfest](https://ytcards.demolab.com/?id=tGTHtvBeSVA&title=Projects+You+Can+Contribute+To+%23hacktoberfest&timestamp=1664926934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projects You Can Contribute To #hacktoberfest")](https://www.youtube.com/watch?v=tGTHtvBeSVA)
 [![Hacktoberfest 2022: Why You SHOULD Participate!](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Hacktoberfest+2022%3A+Why+You+SHOULD+Participate%21&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Hacktoberfest 2022: Why You SHOULD Participate!")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
 <!-- END YOUTUBE-CARDS -->
