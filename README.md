@@ -5,7 +5,7 @@
         <a href="https://www.linkedin.com/in/matt-c-smith/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
         </a>&nbsp;&nbsp;
-        <a href="https://matt-smith.dev">
+        <a href="https://mattcsmith.dev?ref=ghbtn">
             <img src="https://img.shields.io/badge/blog-visit-%23F18D2F.svg?&style=for-the-badge&logo=hashnode" />
         </a>&nbsp;&nbsp;
         <a href="https://twitter/MattCSmith_">
