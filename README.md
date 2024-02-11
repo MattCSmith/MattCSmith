@@ -22,7 +22,7 @@
 
 
 Hi, I'm **Matt** 👋 <br/>
-A Community Manager and Developer at [Zero To Mastery](https://zerotomastery.io/?utm_source=mcs_gh), I help hundreds of thousands of self taught developers from all over the world learn to code, get hired and advance their career in the tech space.
+A Fullstack Developer & Community Manage at [Zero To Mastery](https://zerotomastery.io/?utm_source=mcs_gh), I help hundreds of thousands of self taught developers from all over the world learn to code, get hired and advance their career in the tech space.
 
 With a focus on JavaScript, I build, deploy, scale and maintain Fullstack applications utilising a range of tools and tech for both companies and for fun!
 Amongst all of the projects I have been involved in, my favourites are the collection of Discord Bots I have built and scaled to serve and moderate communities of nearly 500,000 members collectively. 
@@ -30,12 +30,6 @@ Amongst all of the projects I have been involved in, my favourites are the colle
 Have an interesting project? I'm always open to new projects and experiences, so let's connect:<br />
 - [Twitter](https://twitter/MattCSmith_)
 - [Linkedin](https://www.linkedin.com/in/matt-c-smith/)
-
-<br />
-
-### 📌 FEATURED YOUTUBE VIDEOS
-[![Watch the video](https://user-images.githubusercontent.com/6190356/195378195-0b22597c-5f81-42f3-bac1-ad199099c8ce.png)](http://links.constcoding.dev/yt-ghf-1)
-
 
 ### RECENT YOUTUBE VIDEOS
 
@@ -49,23 +43,3 @@ Have an interesting project? I'm always open to new projects and experiences, so
 <!-- END YOUTUBE-CARDS -->
 
 
-<br />
-
----
-
-<br />
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MattCSmith/matt-smith.dev/master/images/skills.png" height=200 />
-</div>
-<br />
-
----
-<br />
-
-
-
-<p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/?username=mattcsmith&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    <br/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mattcsmith.github-readme0123" />
-</p>
