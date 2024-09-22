@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://media.licdn.com/dms/image/D4E16AQHSR5vRqtUjpA/profile-displaybackgroundimage-shrink_350_1400/0/1706187439426?e=1711584000&v=beta&t=1zdUMUBhY6n7HRQ4-d6hrR9PTtSQymSGFRl4jgpRZJY" alt="Profile header" width="100%" />
+        <img src="https://github.com/MattCSmith/MattCSmith/blob/master/assets/githubImage.png?raw=true" alt="Profile header" width="100%" />
         <div>
         <a href="https://www.linkedin.com/in/matt-c-smith/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
