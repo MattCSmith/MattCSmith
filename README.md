@@ -1,37 +1,48 @@
+
 <div align="center">
-    <div>
-        <img src="https://github.com/MattCSmith/MattCSmith/blob/master/assets/githubImage.png?raw=true" alt="Profile header" width="100%" />
-        <div>
-        <a href="https://www.linkedin.com/in/matt-c-smith/">
-            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-        </a>&nbsp;&nbsp;
-        <a href="https://mattcsmith.dev?ref=ghbtn">
-            <img src="https://img.shields.io/badge/blog-visit-%23F18D2F.svg?&style=for-the-badge&logo=hashnode" />
-        </a>&nbsp;&nbsp;
-        <a href="https://twitter/MattCSmith_">
-            <img src="https://img.shields.io/badge/twitter-follow-%231DA1F2.svg?&style=for-the-badge&logo=twitter" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/channel/UC_WTeHQ0Gp62tSVPaeCff-w">
-            <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
-        </a>
-    </div>
-    </div>
+    <img src="https://github.com/MattCSmith/MattCSmith/blob/master/assets/githubImage.png?raw=true" alt="Profile header" width="100%" />
 </div>
+
+<div align="center">
+   👉 <a href="https://beacons.ai/mattcsmith">
+        <img src="https://img.shields.io/badge/Check%20Out%20My%20Socials,%20Projects,%20and%20Links-4CAF50?style=for-the-badge&logo=link&logoColor=white&labelColor=4CAF50" alt="Check Out My Socials, Projects, and Links">
+    </a> 👈
+</div>
+
+
 <br/><br/>
 
+## 👋 Hi, I'm Matt C. Smith
+I'm a **Fullstack Developer** & **Community Manager** at [Zero To Mastery](https://zerotomastery.io/?utm_source=mcs_gh), where I help hundreds of thousands of self-taught developers from around the world learn to code, get hired, and advance their careers in tech.
+
+With a focus on **JavaScript**, I build, deploy, scale, and maintain full-stack applications using a range of tools and technologies. I'm passionate about building useful tools, particularly Discord Bots, which I've scaled to serve and moderate communities of over 500,000 members collectively!
+
+### Let's Connect!
+I’m always open to new projects and experiences, so feel free to connect with me. (Socials are listed [here](https://beacons.ai/mattcsmith/))
+
+---
+
+## 🚀 Technologies & Tools
+Here are just some of the tech and tools I use:
+
+- **Languages:** JavaScript
+- **Frameworks/Libraries:** React, Node.js, Express, Gatsby, Next.js
+- **Databases:** PostgreSQL, MongoDB, MySQL, Firebase
+- **Cloud Providers:** AWS (Wip)
+- **Version Control:** Git, GitHub, GitLab
+
+---
+
+## 🔥 Current Projects
+Here are some of the exciting projects I've been working on lately:
+
+- **[100 Days of AWS](https://100-days-of-aws.hashnode.space/):** My study notes and insights while studying for the AWS Solutions architect exam
 
 
-Hi, I'm **Matt** 👋 <br/>
-A Fullstack Developer & Community Manage at [Zero To Mastery](https://zerotomastery.io/?utm_source=mcs_gh), I help hundreds of thousands of self taught developers from all over the world learn to code, get hired and advance their career in the tech space.
+---
 
-With a focus on JavaScript, I build, deploy, scale and maintain Fullstack applications utilising a range of tools and tech for both companies and for fun!
-Amongst all of the projects I have been involved in, my favourites are the collection of Discord Bots I have built and scaled to serve and moderate communities of nearly 500,000 members collectively. 
-
-Have an interesting project? I'm always open to new projects and experiences, so let's connect:<br />
-- [Twitter](https://twitter/MattCSmith_)
-- [Linkedin](https://www.linkedin.com/in/matt-c-smith/)
-
-### RECENT YOUTUBE VIDEOS
+## 🎬 Recent YouTube Videos
+Stay up to date with my latest videos on tech, coding, and career tips:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How I'd Learn To Code Again With These 5 AI Tips](https://ytcards.demolab.com/?id=z19bVwMP9GI&title=How+I%27d+Learn+To+Code+Again+With+These+5+AI+Tips&lang=en&timestamp=1682299088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How I'd Learn To Code Again With These 5 AI Tips")](https://www.youtube.com/watch?v=z19bVwMP9GI)
@@ -42,4 +53,17 @@ Have an interesting project? I'm always open to new projects and experiences, so
 [![Hacktoberfest 2022: Why You SHOULD Participate!](https://ytcards.demolab.com/?id=jZXV8XBqZHA&title=Hacktoberfest+2022%3A+Why+You+SHOULD+Participate%21&lang=en&timestamp=1664634765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hacktoberfest 2022: Why You SHOULD Participate!")](https://www.youtube.com/watch?v=jZXV8XBqZHA)
 <!-- END YOUTUBE-CARDS -->
 
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCSmith&show_icons=true&hide_border=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCSmith&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 💬 Get in Touch
+
+For more information, project details, or to connect with me on social media, visit my **[Beacons profile](https://beacons.ai/mattcsmith/)** to find all my links!
 
