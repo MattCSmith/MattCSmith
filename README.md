@@ -31,12 +31,7 @@ Here are just some of the tech and tools I use:
 - **Cloud Providers:** AWS (Wip)
 - **Version Control:** Git, GitHub, GitLab
 
----
 
-## 🔥 Current Projects
-Here are some of the exciting projects I've been working on lately:
-
-- **[100 Days of AWS](https://100-days-of-aws.hashnode.space/):** My study notes and insights while studying for the AWS Solutions architect exam
 
 
 ---
