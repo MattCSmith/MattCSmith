@@ -20,6 +20,7 @@ With a focus on **JavaScript**, I build, deploy, scale, and maintain full-stack 
 ### Let's Connect!
 I’m always open to new projects and experiences, so feel free to connect with me. (Socials are listed [here](https://beacons.ai/mattcsmith/))
 
+<!--
 ---
 
 ## 🚀 Technologies & Tools
@@ -33,14 +34,14 @@ Here are just some of the tech and tools I use:
 
 
 
-
+<!--
 ---
 
 ## 🎬 Recent YouTube Videos
 Stay up to date with my latest videos on tech, coding, and career tips:
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How I'd Learn To Code Again With These 5 AI Tips](https://ytcards.demolab.com/?id=z19bVwMP9GI&title=How+I%27d+Learn+To+Code+Again+With+These+5+AI+Tips&lang=en&timestamp=1682299088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How I'd Learn To Code Again With These 5 AI Tips")](https://www.youtube.com/watch?v=z19bVwMP9GI)
+<!--[![How I'd Learn To Code Again With These 5 AI Tips](https://ytcards.demolab.com/?id=z19bVwMP9GI&title=How+I%27d+Learn+To+Code+Again+With+These+5+AI+Tips&lang=en&timestamp=1682299088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How I'd Learn To Code Again With These 5 AI Tips")](https://www.youtube.com/watch?v=z19bVwMP9GI)
 [![Uncovering the Mystery of Coding: What Is a Developer? #shorts](https://ytcards.demolab.com/?id=iRIygRZfsyQ&title=Uncovering+the+Mystery+of+Coding%3A+What+Is+a+Developer%3F+%23shorts&lang=en&timestamp=1681839092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Uncovering the Mystery of Coding: What Is a Developer? #shorts")](https://www.youtube.com/watch?v=iRIygRZfsyQ)
 [![4 Ideal Hacktoberfest Projects to Help You Get Started](https://ytcards.demolab.com/?id=U3WLV7FZ85M&title=4+Ideal+Hacktoberfest+Projects+to+Help+You+Get+Started&lang=en&timestamp=1665250440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 Ideal Hacktoberfest Projects to Help You Get Started")](https://www.youtube.com/watch?v=U3WLV7FZ85M)
 [![HacktoberFest 2022: Complete Step by Step Guide | #hacktoberfest2022](https://ytcards.demolab.com/?id=OqweFF7GLlk&title=HacktoberFest+2022%3A+Complete+Step+by+Step+Guide+%7C+%23hacktoberfest2022&lang=en&timestamp=1665006045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HacktoberFest 2022: Complete Step by Step Guide | #hacktoberfest2022")](https://www.youtube.com/watch?v=OqweFF7GLlk)
